@@ -1,4 +1,4 @@
-[![MasterHead][https://i.gifer.com/3HeZ.gif](https://gifer.com/es/3HeZ)
+[![MasterHead](https://i.gifer.com/3HeZ.gif)
 <h1 align="center">Hi 👋, I'm Larrain Gonzalez</h1>
 <h3 align="center">A developer who has just started</h3>
 
