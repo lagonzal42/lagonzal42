@@ -6,7 +6,7 @@
 
 - 👨‍💻 I’m currently working on [cub3D](https://github.com/victor-zayas/cub3D)
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C++**
 
 - 📝 My biggest project was **Minishell**
 
