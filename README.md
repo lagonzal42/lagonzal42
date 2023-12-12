@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lagonzal42&label=Profile%20views&color=0e75b6&style=flat" alt="lagonzal42" /> </p>
 
-- 👨‍💻 I’m currently working on [cub3D](https://github.com/victor-zayas/cub3D)
+- 👨‍💻 I’m currently working on [CPP modules]([https://github.com/victor-zayas/cub3D](https://github.com/lagonzal42/CPP/tree/master))
 
 - 🌱 I’m currently learning **C++**
 
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/larrain-gonzalez-3b7676263/](https://www.linkedin.com/in/larrain-gonzalez-3b7676263/)
 
-- 🔭 Im looking forward to **Test my skill in aoc 2023**
+- 🔭 Im looking forward to **Learn how to use a game engine (godot or unreal)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
