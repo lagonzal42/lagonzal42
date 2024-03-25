@@ -10,8 +10,6 @@
 
 - 📝 My biggest project was **Minishell**
 
-- 📄 All of my projects are available at [https://github.com/lagonzal42](https://github.com/lagonzal42)
-
 - 📫 How to reach me **larraingonzalez@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/larrain-gonzalez-3b7676263/](https://www.linkedin.com/in/larrain-gonzalez-3b7676263/)
