@@ -1,6 +1,6 @@
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" width="1600" height "100"/></p>
 <h1 align="center">Hi 👋, I'm Larrain Gonzalez</h1>
-<h3 align="center">A developer who has just started</h3>
+<h3 align="center">A C/C++ Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lagonzal42&label=Profile%20views&color=0e75b6&style=flat" alt="lagonzal42" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **larraingonzalez@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/larrain-gonzalez-3b7676263/](https://www.linkedin.com/in/larrain-gonzalez-3b7676263/)
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/larrain-gonzalez-3b7676263/)
 
 - 🔭 Im looking forward to **End 42 Cursus**
 
