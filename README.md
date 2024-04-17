@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C++ and docker**
 
-- 📝 My biggest project was [Minishell] (https://github.com/lagonzal42/minishell)
+- 📝 My biggest project was [Minishell](https://github.com/lagonzal42/minishell)
 
 - 📫 How to reach me **larraingonzalez@gmail.com**
 
