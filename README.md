@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Larrain Gonzalez</h1>
 <h3 align="center">A C/C++ Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lagonzal42&label=Profile%20views&color=0e75b6&style=flat" alt="lagonzal42" /> </p>
-
 - 👨‍💻 I’m currently working on the 42 project Bomberman.
 
 - 🌱 I’m currently learning **docker and Dessing patterns using Java**
