@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lagonzal42&label=Profile%20views&color=0e75b6&style=flat" alt="lagonzal42" /> </p>
 
-- 👨‍💻 I’m currently working on the 42 project inception.
+- 👨‍💻 I’m currently working on the 42 project Bomberman.
 
-- 🌱 I’m currently learning **C++ and docker**
+- 🌱 I’m currently learning **docker and Dessing patterns using Java**
 
 - 📝 My biggest project was [Transcendence](https://github.com/lagonzal42/transcendence)
 
